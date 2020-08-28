@@ -1,24 +1,24 @@
-url: https://y7kim.github.io
+url: https://oxydev.github.io
 baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: OxyDev
+email: szafarpoor@ce.sharif.edu
+description: "Developers"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Ahmad Salimi
   pic: 1
-  position: Lead Designer
+  position: CTO
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://twitter.com/ChichekaMan
+    - title: github
+      url: https://github.com/ahmadsalimi
+    - title: linkedin
+      url: https://linkedin.com/in/ahmadsalimi
 
 - name: Larry Parker
   pic: 2
