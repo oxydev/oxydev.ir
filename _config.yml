@@ -10,7 +10,7 @@ description: "Developers"
 # Team names, titles and social links
 people:
 - name: Ahmad Salimi
-  pic: 1
+  pic: ahmadsalimi
   position: CTO
   social:
     - title: twitter
