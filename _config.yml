@@ -19,6 +19,15 @@ people:
       url: https://github.com/ahmadsalimi
     - title: linkedin
       url: https://linkedin.com/in/ahmadsalimi
+      
+- name: Saber Zafarpoor
+  pic: saberzafarpour
+  position: CEO
+  social:
+    - title: github
+      url: https://github.com/saberDotCoder
+    - title: linkedin
+      url: https://linkedin.com/in/szafarpoor
 
 - name: Larry Parker
   pic: 2
