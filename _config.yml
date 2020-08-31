@@ -1,17 +1,17 @@
-url: https://oxydev.github.io
+url: https://oxydev.ir
 baseurl: ""
 
 # Site settings
 title: OxyDev
 email: szafarpoor@ce.sharif.edu
-description: "Developers"
+description: "OxyDev Developers from Sharif University of Technology"
 
 
 # Team names, titles and social links
 people:
 - name: Ahmad Salimi
   pic: ahmadsalimi
-  position: CTO
+  position: CTO & Dev
   social:
     - title: twitter
       url: https://twitter.com/ChichekaMan
@@ -22,52 +22,48 @@ people:
       
 - name: Saber Zafarpoor
   pic: saberzafarpour
-  position: CEO
+  position: CEO & Dev
   social:
     - title: github
       url: https://github.com/saberDotCoder
     - title: linkedin
       url: https://linkedin.com/in/szafarpoor
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Hadi Esna
+  pic: hadiesna
+  position: Team Coordinator & Dev
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: github
+        url: https://github.com/hadiesna
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/hadiesnaashari/
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Sepehr Ilami
+  pic: alirezailami
+  position: CFO & Dev
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: github
+        url: https://github.com/sepehrilami
+    - title: linkedin
+      url: https://www.linkedin.com/in/alirezailami/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url:
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url:
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url:
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/oxydev
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line:
+  - line:
 
 # Build settings
 markdown: kramdown
