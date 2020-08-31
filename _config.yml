@@ -34,7 +34,7 @@ people:
   position: Team Coordinator & Dev
   social:
     - title: github
-        url: https://github.com/hadiesna
+      url: https://github.com/hadiesna
     - title: linkedin
       url: https://www.linkedin.com/in/hadiesnaashari/
 
@@ -43,7 +43,7 @@ people:
   position: CFO & Dev
   social:
     - title: github
-        url: https://github.com/sepehrilami
+      url: https://github.com/sepehrilami
     - title: linkedin
       url: https://www.linkedin.com/in/alirezailami/
 
