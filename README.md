@@ -2,6 +2,11 @@
 
 [OxyDev Telegram Group Chat](https://t.me/officialoxydev)
 
+
+[OxyDev Official twitter](https://twitter.com/oxydev_ir)
+
+
+https://twitter.com/oxydev_ir
 ## How to use
 
 ### Portfolio 
