@@ -1,6 +1,6 @@
 # [OxyDev Blog](https://oxydev.ir)
 
-[OxyDev Telegram Account](https://t.me/officialoxydev)
+[OxyDev Telegram Group Chat](https://t.me/officialoxydev)
 
 ## How to use
 
